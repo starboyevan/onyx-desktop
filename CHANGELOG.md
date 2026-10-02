@@ -9,4 +9,6 @@ The first private beta of ONYX for Windows.
 - **Deals and profit tracking:** record sales with buyer, channel, and price; profit is calculated from each item's cost at the time of sale.
 - **Dashboard:** inventory by status, value on hand, recorded revenue and realized profit, recent deals, and recently added items.
 - **Local data storage:** all seller data stays in a local database on your PC, with a built-in backup to a file you choose.
-- **License activation:** one-time activation with a license key; works offline afterward.
+- **License activation:** activate with a license key. ONYX works offline after that and checks in with the license server about every 14 days.
+
+Known limitations: recorded sales can't be edited or deleted yet, restoring a backup is a manual step, and amounts are in US dollars only.
